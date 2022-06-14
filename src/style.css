@@ -71,26 +71,36 @@
     0% {
         top: 350px;
         left: 50px;
+        width: 150px;
+        height: 150px;
     }
 
     10% {
         top: 280px;
         left: 140px;
+        width: 140px;
+        height: 140px;
     }
 
     20% {
         top: 210px;
         left: 230px;
+        width: 130px;
+        height: 130px;
     }
 
     30% {
         top: 140px;
         left: 320px;
+        width: 120px;
+        height: 120px;
     }
 
     40% {
         top: 70px;
         left: 410px;
+        width: 110px;
+        height: 110px;
     }
 
     45% {
@@ -100,6 +110,8 @@
     50% {
         top: 50px;
         left: 500px;
+        width: 100px;
+        height: 100px;
     }
 
     55% {
@@ -109,26 +121,36 @@
     60% {
         top: 70px;
         left: 590px;
+        width: 110px;
+        height: 110px;
     }
 
     70% {
         top: 140px;
         left: 680px;
+        width: 120px;
+        height: 120px;
     }
 
     80% {
         top: 210px;
         left: 770px;
+        width: 130px;
+        height: 130px;
     }
 
     90% {
         top: 280px;
         left: 860px;
+        width: 140px;
+        height: 140px;
     }
 
     100% {
         top: 350px;
         left: 950px;
+        width: 150px;
+        height: 150px;
     }
 
 }
